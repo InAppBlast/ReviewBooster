@@ -1,0 +1,17 @@
+/* 
+ RBTableWrapper
+ app
+
+ Created by Sasha on 24/04/15.
+ */
+"rb_like_app" = "Вам нравится приложение?";
+"rb_yes_button" = "Да";
+"rb_no_button" = "Нет";
+
+"rb_ask_rate" = "Оставьте нам отзыв";
+"rb_ask_rate_yes" = "Ладно";
+"rb_ask_rate_no" = "Не сейчас";
+
+"rb_ask_feedback" = "Расскажете почему?";
+"rb_ask_feedback_yes" = "Ладно";
+"rb_ask_feedback_no" = "Не сейчас";
